@@ -1,3 +1,3 @@
 # git_test
 
-THis project is being created with The Odin Project
+This project is being created with The Odin Project
